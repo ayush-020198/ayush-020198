@@ -25,7 +25,7 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++
 ## Some of My Stuffs:
 
 - 🔭 Currently working on a research project based on machine learning;
-- 👨🏽‍💻 Currently doing Competitive Coding on **Hackerrank**;
+- 👨🏽‍💻 Currently doing Competitive Coding on **Hackerrank** & **Codechef**;
 - 🌱 Currently learning Data Science and Cybersecurity;
 - 💬 Ask me about anything and will do my best to help you;
 - 😄 You can reach me from here: 📫(ayush.shrivastavaujn@gmail.com);
