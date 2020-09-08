@@ -33,7 +33,7 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++
 - ⚡ Fun fact: Algorithm is a word used by programmers when they don't want to explain what they did.
 
 <details>
-<summary>📊 Github Overview</summary>
+<summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayush-020198&show_icons=true&theme=gotham" alt="Ayush Shrivastava | Stats" />
 
