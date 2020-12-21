@@ -25,12 +25,10 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++
 ## Some of My Stuffs:
 
 - 🔭 Currently working on a research project based on machine learning;
-- 👨🏽‍💻 Currently doing Competitive Coding on **Hackerrank** & **Codechef**;
-- 🌱 Currently learning Data Science and Cybersecurity;
-- 💬 Ask me about anything and will do my best to help you;
+- 👨🏽‍💻 Currently doing Competitive Coding on **Codeforces** & **Codechef**;
+- 💼 Currently looking for internship opportunities in **Software Development**;
 - 😄 You can reach me from here: 📫(ayush.shrivastavaujn@gmail.com);
-- 📝 [My Resume](https://drive.google.com/file/d/1NwWDYc_vM-oKYhV4MBcJuohksa8E1iNH/view)
-- ⚡ Fun fact: Algorithm is a word used by programmers when they don't want to explain what they did.
+- 📝 [My Resume](https://drive.google.com/file/d/1brNxrkdd4iLN61peTOGNu3N54hC_KLb7/view?usp=sharing&usp=embed_facebook)
 
 <details>
 <summary>📊 Github Stats</summary>
