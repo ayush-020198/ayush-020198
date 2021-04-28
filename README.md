@@ -28,7 +28,7 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++
 - 👨🏽‍💻 Currently doing Competitive Coding on **Codeforces** & **Codechef**;
 - 💼 Currently looking for internship opportunities in **Software Development**;
 - 😄 You can reach me from here: 📫(ayush.shrivastavaujn@gmail.com);
-- 📝 [My Resume](https://drive.google.com/file/d/1migLR3TfZd3le1g-LBZh_HG5-b9rrGPv/view?usp=sharing)
+- 📝 [My Resume](https://drive.google.com/file/d/1tuuybRagpTuiersIaAeI-d69ors9Daw1/view?usp=sharing)
 
 <details>
 <summary>📊 Github Stats</summary>
