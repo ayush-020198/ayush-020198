@@ -27,7 +27,7 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++
 - 🔭 Did a research project based on machine learning;
 - 👨🏽‍💻 Sometimes, do coding on **Codeforces** & **Codechef**;
 - 💼 Currently working ar **Bizongo** as a **Software Development Intern**;
-- 😄 You can reach me from here: 📫(ayush.shrivastavaujn@gmail.com);
+- 😄 You can contact me from here: 📫(ayush.shrivastavaujn@gmail.com);
 - 📝 [My Resume](https://drive.google.com/file/d/1cRKHjlH7upqUvBKTzCFyA0flfQSspZ6G/view?usp=sharing)
 
 <details>
