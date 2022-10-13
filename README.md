@@ -19,7 +19,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ayush-020198.ayush-020198)
 
 ## About Me
-This is Ayush Shrivastava from India 🚀 who is an experienced developer in C++, Javascript, and Python. Student of Indian Institute of Information Technology, Gwalior 🏫. Exploring amazing areas like Competitive Coding, Web Development, Machine Learning, and Cybersecurity. Apart from this, loves to eat food 🍲 and travel 🗺️.
+This is Ayush Shrivastava from India 🚀 who is an experienced developer in Java, Javascript, and Python. Alumni of Indian Institute of Information Technology, Gwalior 🏫. Exploring amazing areas like Competitive Coding, Web Development, Machine Learning, and Cybersecurity. Apart from this, loves to eat food 🍲 and travel 🗺️.
 
 
 ## Some of My Stuffs:
