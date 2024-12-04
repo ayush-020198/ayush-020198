@@ -26,7 +26,7 @@ This is Ayush Shrivastava from India 🚀 who is an experienced developer in Jav
 
 - 🔭 Did a research project based on machine learning;
 - 👨🏽‍💻 Sometimes, do coding on **Codeforces** & **Codechef**;
-- 💼 Currently working at **Bizongo** as a **Software Development Engineer**;
+- 💼 Currently working at **Microsoft** as a **Software Development Engineer**;
 - 😄 You can contact me from here: 📫(ayush.shrivastavaujn@gmail.com);
 - 📝 [My Resume](https://drive.google.com/file/d/1cRKHjlH7upqUvBKTzCFyA0flfQSspZ6G/view?usp=sharing)
 
